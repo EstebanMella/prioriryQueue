@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=alumno1\ alumno2
+comment0.target=int\ compare(modelo.Alumno,\ modelo.Alumno)
+comment1.params=
+comment1.target=Manejadora()
+comment2.params=
+comment2.target=java.util.PriorityQueue\ getMane()
+comment3.params=nombre\ rut\ edad\ nota\ aprueba
+comment3.target=void\ ingresarAlumno(java.lang.String,\ java.lang.String,\ int,\ double,\ boolean)
+comment4.params=rut
+comment4.target=modelo.Alumno\ buscarPorRut(java.lang.String)
+comment5.params=rut
+comment5.target=void\ eliminarAlumno(java.lang.String)
+numComments=6
